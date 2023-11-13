@@ -1,0 +1,11 @@
+video{
+    margin: 5em ;
+    margin-left: 9em;
+    margin-right: 9em;
+    height:30vh;
+    width: 50vh;
+    border: 18px solid;
+    background-color: black;
+    border-radius: 12px;
+}
+

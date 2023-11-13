@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PAC#1",
+			"path": "../.."
+		},
+		{
+			"name": "PAC-1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PAC#1"
+	}
+}

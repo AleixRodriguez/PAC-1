@@ -1,0 +1,28 @@
+body{
+    background:   linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1)), url('../img/FaryNoticia.png');
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.container{
+    padding: 2em;
+    block-size: 40vh;
+}
+
+
+.container3{
+    padding: 2em;
+    block-size: 40vh;
+
+}
+
+.container img{
+width:100%;
+height: 100%;
+}
+
+.container3 img{
+    width:100% ;
+    height: 100%;
+    }
